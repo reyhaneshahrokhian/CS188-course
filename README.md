@@ -1,6 +1,6 @@
 # Project5
 
-* ## MAchine Learning
+* ## Machine Learning
 * ### This project contains 4Questions:
    + #### Q1  : Perceptron
      * In this part, I have implemented a binary perceptron with completation of the PerceptronModel class in models.py.
