@@ -9,7 +9,7 @@
    + #### Q2  : Exact Inference Observation
      * I have implemented the observeUpdate method in ExactInference class of inference.py to correctly update the agent's belief distribution over ghost positions.
    + #### Q3  : Exact Inference with Time Elapse
-     * I have implemented implement the elapseTime method in ExactInference. The elapseTime step, update the belief at every position on the map after one time step elapsing.
+     * I have implemented the elapseTime method in ExactInference. The elapseTime step, update the belief at every position on the map after one time step elapsing.
    + #### Q4  : Exact Inference Full Test
      * I have implemented the chooseAction method in GreedyBustersAgent in bustersAgents.py. the agent first find the most likely position of each remaining uncaptured ghost, then choose an action that minimizes the maze distance to the closest ghost.
    + #### Q5  : Approximate Inference Initialization and Beliefs
